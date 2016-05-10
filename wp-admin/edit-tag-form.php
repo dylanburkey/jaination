@@ -1,6 +1,6 @@
 <?php
 /**
- * Edit tag form for inclusion in administration panels.
+ * Edit tag form for inclu`sion in administration panels.
  *
  * @package WordPress
  * @subpackage Administration
@@ -8,8 +8,7 @@
 
 // don't load directly
 if ( ! defined( 'ABSPATH' ) ) {
-	die( '-1' );
-}
+	die( '-1' )
 
 // Back compat hooks
 if ( 'category' == $taxonomy ) {
